@@ -67,7 +67,7 @@
 <h2>未來計劃</h2>
 <ul>
  <li>
-  研究前端框架、資料串接
+  研究前端框架Vue、React、資料串接Firebase、AngularJs
  </li>
 </ul>
 <h2>關於我</h2>
