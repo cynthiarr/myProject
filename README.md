@@ -15,16 +15,22 @@
  <li>維護網站-瞭解看懂PHP基本語法，維護前端網頁修改需求</li> 
  
 </ul>
-<h3 style="color:#33cccc;">作品集</h3>
+<h3 style="color:#33cccc;">網頁設計作品瀏覽</h3>
 <ul>
  <li>
- <h4>網頁界面設計、切版、Javascript運用及RWD作品</h4><a href="http://211.72.214.242/demo5/wlhaizian/index.html">味霖海鮮漁港網站</a>、<a href="http://www.chickensecond.com.tw/products.php">承大寵物網站</a>、<a href="http://211.72.214.242/demo5/pisc/">逢甲大學共儀中心-畫面最小為1024px</a>、<a href="http://www.jdeyi.com/">景得易科技有限公司-網頁縮放</a><a href="http://icynthia.azurewebsites.net/mornsunHotel/default.html">晨陽文旅-網頁縮放</a><br/>
-<h4>切版、RWD、Javascript運用作品</h4>
-<a href="http://www.buron.com.tw">buron</a>、<a href="http://www.kinmaxsource.com/">慶福網站</a>、<a href="http://cynthia777.synology.me/ask/index.html">懸賞客</a>、<a href="http://cynthia777.synology.me/websolt/index.html">娛樂網站RWD切版</a><br/>
-<h4>jQuery功能撰寫前端功能、系統界面設計</h4>
-<a href="http://211.72.214.242/demo5/his_system/reservation_dr.html">樂衍醫療系統-畫面最小為1680px</a>、<a href="http://211.72.214.242/demo5/his_system/declare_all.html">樂衍醫療系統-畫面最小為1680px</a>、<a href="http://211.72.214.242/demo5/his_system/msg.html">文字超過72字提示訊息</a>、<a href="http://211.72.214.242/demo5/his_system/_sickness_all.html">病患關係管理</a>、<a href="http://211.72.214.242/demo5/his_system/medical.html">病歷資料-點「處置名稱」也會彈出視窗</a><br/>
-<h4>網站維護</h4>
-<a href="http://www.tori.narlabs.org.tw">海洋中心網站</a>、<a href="http://thtech.thu.edu.tw">東海共同儀器中心</a>、<a href="http://ruby.com.tw">徐薇英語</a>、<a href="http://www.chickensecond.com.tw/products.php">承大寵物網站</a><br/><a href="http://www.finn-th.com/">FINN</a>
+  <h4>網頁界面設計、切版、Javascript運用及RWD作品</h4>
+  <a href="http://211.72.214.242/demo5/wlhaizian/index.html">味霖海鮮漁港網站</a>、<a href="http://www.chickensecond.com.tw/products.php">承大寵物網站</a>、<a href="http://211.72.214.242/demo5/pisc/">逢甲大學共儀中心-畫面最小為1024px</a>、<a href="http://www.jdeyi.com/">景得易科技有限公司-網頁縮放</a><a href="http://icynthia.azurewebsites.net/mornsunHotel/default.html">晨陽文旅-網頁縮放</a>
+ </li>
+ <li><h4>切版、RWD、Javascript運用作品</h4>
+  <a href="http://www.buron.com.tw">buron</a>、<a href="http://www.kinmaxsource.com/">慶福網站</a>、<a href="http://cynthia777.synology.me/ask/index.html">懸賞客</a>、<a href="http://cynthia777.synology.me/websolt/index.html">娛樂網站RWD切版</a>
+ </li>
+  <li>
+   <h4>jQuery功能撰寫前端功能、系統界面設計</h4>
+<a href="http://211.72.214.242/demo5/his_system/reservation_dr.html">樂衍醫療系統-畫面最小為1680px</a>、<a href="http://211.72.214.242/demo5/his_system/declare_all.html">樂衍醫療系統-畫面最小為1680px</a>、<a href="http://211.72.214.242/demo5/his_system/msg.html">文字超過72字提示訊息</a>、<a href="http://211.72.214.242/demo5/his_system/_sickness_all.html">病患關係管理</a>、<a href="http://211.72.214.242/demo5/his_system/medical.html">病歷資料-點「處置名稱」也會彈出視窗</a>
+ </li>
+ <li>
+  <h4>網站維護</h4>
+  <a href="http://www.tori.narlabs.org.tw">海洋中心網站</a>、<a href="http://thtech.thu.edu.tw">東海共同儀器中心</a>、<a href="http://ruby.com.tw">徐薇英語</a>、<a href="http://www.chickensecond.com.tw/products.php">承大寵物網站</a><br/><a href="http://www.finn-th.com/">FINN</a>
  </li>
 </ul>
 <h3 style="color:#33cccc;">平面設計</h3>
