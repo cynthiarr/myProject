@@ -4,7 +4,7 @@
 </ul>
 <hr/>
 <h2>專業技能</h2>
-<h3 style="color:#009999">網頁設計</h3>
+<h3 style="color:#33cccc;">網頁設計</h3>
 <ul>
  <li>運用photoshop、illustrator設計UI、APP界面及規劃網頁流程界面</li>
  <li>系統界面設計-SA開出功能需求設計UI界面及前端功能</li>
@@ -39,7 +39,7 @@
   <a href="http://www.finn-th.com/">FINN</a>
  </li>
 </ul>
-<h3 style="color:#009999">平面設計</h3>
+<h3 style="color:#33cccc;">平面設計</h3>
 <ul>
  <li>運用photoshop、illustrator設計企劃者構想需求</li>
  <li>名片、看版、電子報、每月刋物、抽獎卷、海報、產品說明書、產品標籤、包裝盒...等文宣設計及印刷</li>
