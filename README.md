@@ -9,9 +9,9 @@
  <li>photoshop、illustrator設計UI、APP界面、規劃網站流程界面</li>
  <li>系統界面設計-SA開出功能需求，設計UI界面及前端jQuery功能</li>
  <li>使用sublime切版完成HTML5、bootstrap、css3網頁及RWD建置符合多元智慧型網頁瀏覽需求</li>
- <li>撰寫jQuery+css完成前端功能、套用並修改Javascript以符合動態效果呈現</li>
+ <li>撰寫jQuery+css、運用並修改Javascript以完成前端程式或動態效果呈現功能</li>
  <li>使用scss管理css語法結構</li>
- <li>瞭解Git/Github指令運用</li>
+ <li>瞭解Git/Github指令運用、版本控管</li>
  <li>維護網站-瞭解看懂PHP基本語法，維護前端網頁修改需求</li>
 </ul>
 <h3 style="color:#33cccc;">網頁作品</h3>
