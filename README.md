@@ -43,7 +43,8 @@
    <a href="http://211.72.214.242/demo5/his_system/expense.html">「自費病歷」-撰寫「新增」輸入表格區塊功能</a>
  </li>
  <li>
-  <h4 href="http://211.72.214.244/system_demo/default.html">用Javascript撰寫div動態畫線條圖svg連接div</h4>  
+  <h4>用Javascript撰寫svg連線</h4>
+  <a href="http://211.72.214.244/system_demo/default.html">div動態畫線條圖連接div</a>
  </li>
  <li>
   <h4>網站維護</h4>
