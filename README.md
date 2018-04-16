@@ -41,9 +41,7 @@
    <a href="http://211.72.214.242/demo5/his_system/_sickness_all.html">病患關係管理</a><br/>
    <a href="http://211.72.214.242/demo5/his_system/medical.html">病歷資料-點「處置名稱」也會彈出視窗</a>
    <a href="http://211.72.214.242/demo5/his_system/expense.html">「自費病歷」-撰寫「新增」輸入表格區塊功能</a>
- </li>
- <li>
-  <h4>用Javascript撰寫svg連線</h4>
+   <h4>用Javascript撰寫svg連線</h4>
   <a href="http://211.72.214.244/system_demo/default.html">div動態畫線條圖連接div</a>
  </li>
  <li>
