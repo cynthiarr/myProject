@@ -58,6 +58,7 @@
  <li>運用photoshop、illustrator設計企劃者構想需求</li>
  <li>名片、看版、電子報、每月刋物、抽獎卷、海報、產品說明書、產品標籤、包裝盒...等文宣設計及印刷</li>
  <li><a href="https://docs.google.com/document/d/193Ol4frfDAaBw4Ftx32msq8lb4xi3vtgnurLY6uzP5A/edit?usp=sharing">作品瀏覽</a></li>
+ <li><a href="https://docs.google.com/document/d/1ubAJizJBMrR2XMDeusF7knLsMjwAGKuLe4Vc6_tdPNg/edit">APP網頁平面設計</a></li>
 </ul>
 <h2>工作經驗</h2>
 <ul>
