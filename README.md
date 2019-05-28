@@ -7,13 +7,14 @@
 <h2>專業技能</h2>
 <h3 style="color:#33cccc;">前端</h3>
 <ul>
- <li>photoshop、illustrator設計UI、APP界面、規劃網站流程界面</li>
+ <li>AngularJs開發前端功能，配合後端API串接</li>
+ <li>Photoshop、Illustrator設計UI、APP界面、規劃網站流程界面</li>
  <li>系統界面設計-SA開出功能需求，設計UI界面及前端jQuery功能</li>
- <li>使用sublime切版完成HTML5、bootstrap、css3網頁及RWD建置符合多元智慧型網頁瀏覽需求</li>
+ <li>使用VisualStudioCode切版,完成HTML5、bootstrap、css3網頁及RWD建置符合多元智慧型網頁瀏覽需求</li>
  <li>撰寫jQuery+css、運用並修改Javascript以完成前端程式或動態效果呈現功能</li>
- <li>使用scss管理css語法結構</li>
+ <li>使用Scss、Less管理css語法結構</li>
  <li>瞭解Git/Github指令運用、版本控管</li>
- <li>維護網站-瞭解看懂PHP基本語法，維護前端網頁修改需求</li>
+ <li>維護網站-略懂PHP語法，維護前端網頁修改需求</li>
 </ul>
 <h3 style="color:#33cccc;">網頁作品</h3>
 <ul>
@@ -28,8 +29,8 @@
  <li><h4>切版、RWD、Javascript運用作品</h4>
   <a href="http://www.buron.com.tw">buron</a><br/>
   <a href="http://www.kinmaxsource.com/">慶福網站</a><br/>
-  <a href="http://cynthia777.synology.me/ask/index.html">懸賞客</a><br/>
-  <a href="http://cynthia777.synology.me/websolt/index.html">娛樂網站RWD切版</a>
+  <!--<a href="http://cynthia777.synology.me/ask/index.html">懸賞客</a><br/>
+  <a href="http://cynthia777.synology.me/websolt/index.html">娛樂網站RWD切版</a>-->
  </li>
   <li>
    <h4>jQuery功能撰寫前端功能、系統界面設計</h4>
@@ -41,8 +42,8 @@
    <a href="http://211.72.214.242/demo5/his_system/_sickness_all.html">病患關係管理</a><br/>
    <a href="http://211.72.214.242/demo5/his_system/medical.html">病歷資料-點「處置名稱」也會彈出視窗</a>
    <a href="http://211.72.214.242/demo5/his_system/expense.html">「自費病歷」-撰寫「新增」輸入表格區塊功能</a>
-   <h4>用Javascript撰寫svg連線</h4>
-  <a href="http://211.72.214.244/system_demo/default.html">div動態畫線條圖連接div</a>
+   <!--<h4>用Javascript撰寫svg連線</h4>
+  <a href="http://211.72.214.244/system_demo/default.html">div動態畫線條圖連接div</a>-->
  </li>
  <li>
   <h4>網站維護</h4>
