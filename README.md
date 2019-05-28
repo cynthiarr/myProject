@@ -11,13 +11,18 @@
  <li>Photoshop、Illustrator設計UI、APP界面、規劃網站流程界面</li>
  <li>系統界面設計-SA開出功能需求，設計UI界面及前端jQuery功能</li>
  <li>使用VisualStudioCode切版,完成HTML5、bootstrap、css3網頁及RWD建置符合多元智慧型網頁瀏覽需求</li>
- <li>撰寫jQuery+css、運用並修改Javascript以完成前端程式或動態效果呈現功能</li>
+ <li>撰寫jQuery+css、撰寫Javascript以完成前端程式或動態效果呈現功能</li>
  <li>使用Scss、Less管理css語法結構</li>
  <li>瞭解Git/Github指令運用、版本控管</li>
  <li>維護網站-略懂PHP語法，維護前端網頁修改需求</li>
 </ul>
 <h3 style="color:#33cccc;">網頁作品</h3>
 <ul>
+ <li>
+  <h4>Angular JS作品</h4>
+  <a href="http://distaipeihospital.azurewebsites.net/#/allPatients/">北市聯合醫院透析系統</a><br/>
+  <a href="http://respirationsystemdouliu.azurewebsites.net/index.html#/login">斗六成大呼吸系統</a>
+ </li>
  <li>
   <h4>網頁界面設計、切版、Javascript運用及RWD作品</h4>
   <a href="http://211.72.214.242/demo5/wlhaizian/index.html">味霖海鮮漁港網站</a><br/>
@@ -64,6 +69,9 @@
 <h2>工作經驗</h2>
 <ul>
  <li>
+ 悅康科技股份有限公司 - 擔任前端軟體工程師兼網頁設計師<br/>前端網頁功能開發 / 系統界面設計、系統樣板切版
+ </li>
+ <li>
   山水雲林股份有限公司 - 擔任RWD網頁設計師<br/>網頁設計/切版 / 前端jQuery撰寫運用/前端系統介面功能撰寫 / 網站維護/平面設計
  </li>
  <li>
@@ -74,12 +82,12 @@
 </ul>
 <h2>未來計劃</h2>
 <ul>
- <li>研究前端框架Vue、React、資料串接Firebase、AngularJs
+ <li>研究、撰寫前端AngularJs、框架Vue、React
  </li>
 </ul>
 <h2>關於我</h2>
 <ul>
- <li>因興趣的關係初進社會即踏入網頁設計領域，工作之餘也進修設計相關之學分色彩學、造型設計、心裡學、藝術概論…等補足視覺設計概念，再加上自己本身資訊背景在工作上更能得心應手，主要從事網頁、平面設計至今已有八、九年有餘，其次也因早期在網頁設計部門需求撰寫ASP程式，執行了系統整個概念，點點滴滴的過程中對前端技術愈感興趣，並透過自學、線上課程Scss、Flex、AngularJs增加自己的專業能力，對未來期許自己更能成為專業的前端工程師。
+ <li>因興趣的關係初進社會即踏入網頁設計領域，工作之餘也進修設計相關之學分色彩學、造型設計、心裡學、藝術概論…等補足視覺設計概念，再加上自己本身資訊背景在工作上更能得心應手，主要從事網頁、平面設計至今已有八、九年有餘，其次也因早期在網頁設計部門需求撰寫ASP、Asp.net程式，執行了系統整個概念，點點滴滴的過程中對前端技術愈感興趣，並透過自學、線上課程Scss、Flex、AngularJs增加自己的專業能力，對未來期許自己更能成為專業的前端工程師。
  </li>
  <li>座右銘：工作不忘學習多元進修以增進視野</li>
  <li>專案執行中更體會到工作默契與團隊合作的重要性。同事之間各司所長將可帶來日後運作發揮更大的效益，相信用心參與、整體思考、身體力行、耐心溝通，未來將逐夢踏實</li> 
